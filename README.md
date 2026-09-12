@@ -280,7 +280,7 @@ The complete implementation, including data collection, target construction, fea
 
 ## 🔗 Project Links 
 
-* **GitHub Repository:** ``
+* **GitHub Repository:** `https://github.com/Sonalii06/stock-price-movement-predictor`
 * **Google Colab Notebook:** `https://colab.research.google.com/drive/18kEWsG33IXBpWl6EDsbV8Jgrl92RotOC?usp=sharing`
 
 
