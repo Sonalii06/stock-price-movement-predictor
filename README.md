@@ -280,9 +280,7 @@ The complete implementation, including data collection, target construction, fea
 
 ## 🔗 Project Links 
 
-* **GitHub Repository:** `PASTE_YOUR_GITHUB_REPO_LINK_HERE`
-* **Deployed Link:** `PASTE_YOUR_DEPLOYED_LINK_HERE`
-* **Demo Video:** `PASTE_YOUR_DEMO_VIDEO_LINK_HERE`
-* **Google Colab Notebook:** `PASTE_YOUR_COLAB_LINK_HERE`
+* **GitHub Repository:** ``
+* **Google Colab Notebook:** `https://colab.research.google.com/drive/18kEWsG33IXBpWl6EDsbV8Jgrl92RotOC?usp=sharing`
 
 
