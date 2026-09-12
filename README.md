@@ -270,7 +270,6 @@ To run the notebook locally:
 2. Install the Python libraries used in the notebook.
 3. Open `Stock_Price_Movement_Predictor.ipynb`.
 4. Run the cells sequentially from beginning to end.
-
 ---
 
 ## 📓 Notebook
@@ -278,3 +277,12 @@ To run the notebook locally:
 The complete implementation, including data collection, target construction, feature engineering, model training, time-series validation, evaluation, comparison, and visualizations, is provided in the Jupyter Notebook.
 
 **Notebook:** `Stock_Price_Movement_Predictor.ipynb`
+
+## 🔗 Project Links 
+
+* **GitHub Repository:** `PASTE_YOUR_GITHUB_REPO_LINK_HERE`
+* **Deployed Link:** `PASTE_YOUR_DEPLOYED_LINK_HERE`
+* **Demo Video:** `PASTE_YOUR_DEMO_VIDEO_LINK_HERE`
+* **Google Colab Notebook:** `PASTE_YOUR_COLAB_LINK_HERE`
+
+
